@@ -1,6 +1,5 @@
 from helper import decoreer
-
-def print_aanbieding ():
+def print_aanbieding():
     prijzen = {
         "aardbei" : "3",
         "vanille" : "4",
